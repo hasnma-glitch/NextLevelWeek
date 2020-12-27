@@ -1,2 +1,1 @@
-# nextlevelweek
-<p> É um evento semanal (mensal)</p>
+<p> É um evento da Rocketseat - Semanal e/ou Mensal</p>
