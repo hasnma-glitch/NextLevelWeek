@@ -1,2 +1,2 @@
 <p>React</p>
-<p>React Native (Mobile)</p>
+<p>Escolhi essa rota para aprender mais sobre SCSS</p>
