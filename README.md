@@ -1,4 +1,4 @@
-<p> É um evento da Rocketseat - Semanal e/ou Mensal</p>
+<p> É um evento da Rocketseat - Mensal ou Bi/Trimestral</p>
 
 <i>O NLW é um evento online com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.</i>
 <h6>Fontes:</h6>
