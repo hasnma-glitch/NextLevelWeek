@@ -4,3 +4,5 @@
 <h6>Fontes:</h6>
 <p><a href="https://nextlevelweek.com">NLW - Rocketseat</a></p>
 <p><a href="https://rocketseat.com.br/">Rocketseat</a></p>
+
+<i>Sim, eu sei que alguns dos projetos estão "incompletos", mas tive muitas coisas pessoais a fazer esses dias</i>
